@@ -1,5 +1,4 @@
-node_modules/
-*.db
+__pycache__/
+*.pyc
+db.sqlite3
 .env
-npm-debug.log*
-.DS_Store
